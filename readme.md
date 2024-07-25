@@ -1,6 +1,6 @@
-# EcoCode Analyzer
+# carbon-inspector-for-your-code
 
-Welcome to EcoCode Analyzer, a web-based tool that helps you analyze the environmental impact of your code!
+Welcome to carbon-inspector-for-your-code, a web-based tool that helps you analyze the environmental impact of your code!
 
 ## Motivation
 
@@ -27,7 +27,7 @@ To understand the carbon efficiency of your code, consider a simple metric:
 
 ## How It Works
 
-EcoCode Analyzer uses modern web technologies to provide real-time analysis of your code snippets:
+carbon-inspector-for-your-code uses modern web technologies to provide real-time analysis of your code snippets:
 
 1. **Input Code:** Paste your code snippet into the provided text area.
 2. **Analyze:** Click the "Analyze" button to start processing your code.
@@ -40,7 +40,7 @@ EcoCode Analyzer uses modern web technologies to provide real-time analysis of y
 
 ## Usage
 
-To use EcoCode Analyzer, follow these steps:
+To use carbon-inspector-for-your-code, follow these steps:
 
 1. Open the website in your browser.
 2. Paste your code snippet into the input area.
