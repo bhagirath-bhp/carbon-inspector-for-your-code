@@ -36,7 +36,6 @@ carbon-inspector-for-your-code uses modern web technologies to provide real-time
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** (Mention any backend technologies or services used, if applicable)
 
 ## Usage
 
@@ -44,8 +43,15 @@ To use carbon-inspector-for-your-code, follow these steps:
 
 1. Open the website in your browser.
 2. Paste your code snippet into the input area.
-3. Click the "Analyze" button.
+3. Click the "Run Code" button.
 4. Review the results displayed for execution time, CPU load, memory usage, and carbon emissions.
+
+## Contribution
+
+This project is a small effort to address the environmental impact of code execution. Your contributions can help take this platform to the next level and make a bigger impact. Here are ways you can contribute:
+- **Code:** Improve the functionality, performance, and user experience.
+- **Feedback:** Share your thoughts, ideas, and suggestions for improvement.
+- **Spread the Word:** Help raise awareness about carbon-efficient coding practices.
 
 ## Development
 
@@ -53,8 +59,4 @@ This project is open-source and contributions are welcome. To contribute, fork t
 
 ## Feedback and Support
 
-If you have any feedback, suggestions, or issues, please [open an issue](link-to-issue-tracker) on GitHub. For support inquiries, contact us at [support@example.com](mailto:support@example.com).
-
-## License
-
-This project is licensed under the [MIT License](link-to-license-file).
+If you have any feedback, suggestions, or issues, please [open an issue](https://github.com/bhagirath-bhp/carbon-inspector-for-your-code/issues) on GitHub.
