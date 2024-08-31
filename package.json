@@ -1,0 +1,35 @@
+{
+  "name": "performance-metrics",
+  "displayName": "Performance Metrics",
+  "description": "An extension to measure execution time, CPU load, memory usage, and estimate carbon emissions.",
+  "version": "1.0.0",
+  "publisher": "your-publisher-id",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "activationEvents": [
+    "onCommand:extension.measureAll"
+  ],
+  "main": "./out/extension.js",
+  "scripts": {
+    "vscode:prepublish": "npm run build",
+    "build": "tsc -p ./",
+    "test": "node ./out/test/runTest.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "vscode-test": "^1.5.0"
+  },
+  "dependencies": {
+    "os": "*",
+    "perf_hooks": "*"
+  },
+  "contributes": {
+    "commands": [
+      {
+        "command": "extension.measureAll",
+        "title": "Measure All"
+      }
+    ]
+  }
+}
